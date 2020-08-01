@@ -1,5 +1,9 @@
 # filmes
 
+
+
+ <img width="250px"  src="https://github.com/eliezerantonio/filmes-tmdb/blob/master/primeiro.gif"> | <img width="250px"  src="https://github.com/eliezerantonio/filmes-tmdb/blob/master/segundo.gif"> 
+
 A new Flutter project.
 
 ## Getting Started
