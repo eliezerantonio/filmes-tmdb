@@ -1,0 +1,4 @@
+#Sat Aug 01 02:58:35 WAT 2020
+base.0=/home/eliezer/Documentos/flutter/curso3/filmes/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
